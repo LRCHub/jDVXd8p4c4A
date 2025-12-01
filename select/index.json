@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "【夢と色でできている - ED】これくらいで",
+  "base_artist": "れぼ (fengCVA)",
+  "createdAt": "2025-12-01T12:33:36.698480Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "これくらいで歌う",
+      "artist": "ハンサムケンヤ",
+      "has_synced": false,
+      "path": "select/pl_01_これくらいで歌う_ハンサムケンヤ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "これくらいで歌う",
+      "artist": "ハンサムケンヤ",
+      "has_synced": false,
+      "path": "select/pl_02_これくらいで歌う_ハンサムケンヤ.txt"
+    }
+  ]
+}
